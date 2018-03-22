@@ -1,1 +1,1 @@
-# OSclass_hw4_memory_allocator
+try to write the malloc and free , but the merge have some promble ,another are right.
